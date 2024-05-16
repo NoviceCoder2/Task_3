@@ -30,3 +30,22 @@ Project Objectives:
 5. Property Type and Room Analysis:
 - Analyse the distribution of property types and room types.
 - Explore trends in the popularity of specific accommodation setups.
+
+
+General overview of the steps you would take to create the project:
+
+Data Import: In Power BI Desktop, you import your dataset from various sources such as Excel files, databases, or online services.
+
+Data Transformation: You perform data cleaning, shaping, and transformation using Power Query Editor within Power BI Desktop to prepare your data for analysis.
+
+Data Modeling: You create relationships between different tables if necessary and define measures and calculated columns using DAX (Data Analysis Expressions) language.
+
+Visualization: You create visualizations (e.g., charts, graphs, maps) based on your data and arrange them on report pages to tell a story or convey insights.
+
+Interactivity: You add slicers, filters, and drill-through features to make your report interactive and allow users to explore the data.
+
+Formatting: You format your visuals, adjust colors, fonts, and layout to make your report visually appealing and easy to understand.
+
+Testing and Iteration: You review and test your report to ensure it accurately reflects your data and meets the project objectives. You may need to iterate on the design and functionality based on feedback.
+
+Deployment: Once your report is complete, you publish it to the Power BI service or export it as a PBIX file for sharing with stakeholders.
